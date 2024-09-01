@@ -1,10 +1,10 @@
 {
-  "name": "backend",
+  "name": "backend-template-vishal",
   "version": "1.0.0",
   "main": "index.js",
   "type": "module",
   "bin": {
-    "backend-template": "./cli.js"
+    "backend-template-vishal": "cli.js"
   },
   "description": "A template for Node.js backend projects using Express and MongoDB.",
   "scripts": {
